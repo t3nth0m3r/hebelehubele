@@ -1,0 +1,10 @@
+git init
+
+
+git add .
+ 
+
+git commit -m "rastgele"
+
+
+varolan bir havuzu komut satýrýndan iletme kodu
